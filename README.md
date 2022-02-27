@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Epitech Lyon**
 
-- 🌱 I’m currently learning **C++,MERN stack**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [matheorbt.com](matheorbt.com)
 
