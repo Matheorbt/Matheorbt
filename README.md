@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Epitech Lyon**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Solidity and the Web3 library**
 
 - 👨‍💻 All of my projects are available at [matheorbt.com](matheorbt.com)
 
