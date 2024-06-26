@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathéo</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
-- 🔭 I’m currently studying at **Epitech - Lyon**
-
-- 🌱 I’m currently learning **tRPC, RTK query**
+- 🔭 I’m currently studying at **Epitech - Paris**
 
 - 👨‍💻 All of my projects are available at [matheorbt.com](matheorbt.com)
 
